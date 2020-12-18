@@ -205,3 +205,8 @@ struct CounterView: View {
 
 - またアプリの中で利用しているPokerHandsというライブラリもGitHubで公開しています。
   - https://github.com/tomoki69386/PokerHands
+
+- カウンティングのやり方を詳しく知りたい人
+  - https://vegasdocs.com/blackjack/counting.html
+  - https://www.casinowired.com/counting-2/
+  - https://xn--jp-kh4aa8bwdc2mye8b.com/countbasic/bj194.html
