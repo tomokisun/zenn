@@ -3,7 +3,7 @@ title: "ブラックジャックの必勝法「カウンティングアプリ」
 emoji: "🃏"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [SwiftUI]
-published: false
+published: true
 ---
 
 :::message
