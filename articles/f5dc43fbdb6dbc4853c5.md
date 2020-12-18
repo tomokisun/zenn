@@ -113,7 +113,7 @@ UIで誤魔化していますが基本的にはただのカウントアプリに
 
 カウントをリセットしてくれる機能を作ったのですが、誤って押してしまう可能性のある場所にボタンを配置したので「本当にリセットしますか？」とアラートで確認を取るようにしました。
 
-![](https://storage.googleapis.com/zenn-user-upload/ni9vo6ivhg960tnkgpajdbx2a3my)
+![](https://storage.googleapis.com/zenn-user-upload/19r32k9dhpnds8qc28luswkaofs1)
 
 SwiftUIでは以下のようにしてアラートを出すことができます
 
