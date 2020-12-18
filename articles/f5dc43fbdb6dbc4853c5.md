@@ -1,3 +1,11 @@
+---
+title: "ブラックジャックの必勝法「カウンティングアプリ」を作った"
+emoji: "🃏"
+type: "tech" # tech: 技術記事 / idea: アイデア
+topics: [SwiftUI]
+published: false
+---
+
 :::message
 これは[CAMPFIRE Advent Calendar 2020](https://qiita.com/advent-calendar/2020/campfire)の19日目の記事です。
 :::
