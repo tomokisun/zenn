@@ -95,7 +95,7 @@ published: false
 
 | | | |
 |-|-|-|
-| <img src="https://storage.googleapis.com/zenn-user-upload/wj88kmtxy0jbjfxgfaiyl7q9i3j0" width=300 /> | <img src="https://storage.googleapis.com/zenn-user-upload/9z8pphvu0zyer6ngm74lvcbexygr" width=300 /> | <img src="https://storage.googleapis.com/zenn-user-upload/az2coazhjf5mzgwp5q82ol2wf5s2" width=300 /> |
+| ![](https://storage.googleapis.com/zenn-user-upload/avke1v03swch7g4dihqztbllnnkc) | ![](https://storage.googleapis.com/zenn-user-upload/3yns1xjt4sohjb7x2i8ehc20ah10) | ![](https://storage.googleapis.com/zenn-user-upload/49htbe92wn5v0r2eayr6kuiv19cp) |
 
 場に出たトランプをタップすると自動でカウントをしてくれるようになっています。
 
