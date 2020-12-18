@@ -93,9 +93,7 @@ published: false
 
 カウンティングの方法で述べたとおりにカウントをすればいいのですが、カウントを記憶することや瞬時に計算することは難しいので、簡単にカウンティングを行えるアプリを作りました。
 
-| | | |
-|-|-|-|
-| ![](https://storage.googleapis.com/zenn-user-upload/avke1v03swch7g4dihqztbllnnkc) | ![](https://storage.googleapis.com/zenn-user-upload/3yns1xjt4sohjb7x2i8ehc20ah10) | ![](https://storage.googleapis.com/zenn-user-upload/49htbe92wn5v0r2eayr6kuiv19cp) |
+![](https://storage.googleapis.com/zenn-user-upload/rs38xue1fsod00c6qmlk60lpqpws)
 
 場に出たトランプをタップすると自動でカウントをしてくれるようになっています。
 
@@ -115,7 +113,7 @@ UIで誤魔化していますが基本的にはただのカウントアプリに
 
 カウントをリセットしてくれる機能を作ったのですが、誤って押してしまう可能性のある場所にボタンを配置したので「本当にリセットしますか？」とアラートで確認を取るようにしました。
 
-<img src='https://storage.googleapis.com/zenn-user-upload/ni9vo6ivhg960tnkgpajdbx2a3my' width=300 />
+![](https://storage.googleapis.com/zenn-user-upload/ni9vo6ivhg960tnkgpajdbx2a3my)
 
 SwiftUIでは以下のようにしてアラートを出すことができます
 
